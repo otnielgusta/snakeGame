@@ -1,6 +1,6 @@
 # snake
 
-A new Flutter project.
+Clássico jogo da cobrinha desenvolvido em flutter
 
 ## Getting Started
 
